@@ -374,9 +374,17 @@ section {
   line-height: 0;
 }
 
+
+.about .content p {
+  font-size: medium;
+  text-align: justify;
+}
+
+
 .about .content p:last-child {
   margin-bottom: 0;
 }
+
 
 /*--------------------------------------------------------------
 # Facts
